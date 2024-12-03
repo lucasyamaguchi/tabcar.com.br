@@ -1,5 +1,5 @@
 function Home () {
-    return <><h1>Isso aqui, vai mudar minha vida</h1><p>Vou mudar de carreira, vou fazer acontecer e realizar meus sonhos.</p></>
+    return <><h1>Essa mensagem vai ter surpreender, ou não!</h1></>
 }
 
 export default Home;
