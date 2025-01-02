@@ -15,3 +15,11 @@ O usuário leitor pode receber um "thumbs-up" se alguém gostou do conteúdo, co
 Trilhas: Um caminho por onde o usuário encontre a melhor decisão de acordo com algumas tags que ele seleciona, como preço, conforto, desempenho, pista, aparencia e etc. e encontre um carro ou análises sobre estas tags em específico;
 
 O cadastro dos usuários você pode selecionar um modelo que possui, um que quer possuir, modelo dos sonhos e melhor carro na sua opinião;
+
+Importar matérias do jornalismo automotivo e reviver em uma nova plataforma estes, que são os meus conhecimentos favoritos junto de várias pessoas contribuindo, exatamente como o tabnews;
+
+Trazer de volta para as pessoas que gostam de jornalismo, a oportunidade de serem recompensadas, mesmo que por um "thumbs-up" de ótima escrita ou um "belíssimo artigo", e reviver essa profissão que foi tomada por caça cliques;
+
+Fazer com que seja um site/aplicativo limpo, onde tenham o top 10 recentes e o top 10 relevantes do dia e da semana, (que serão apresentados diferente caso entre na segunda-a-quinta e na sexta-feira) para uma leitura rápida e resumida (utilizar a IA para trazer esse resumo para a página) e um link para o interno, onde tem a postagem completa, fotos e detalhes (além da transcrição na página princial e na página do conteúdo);
+
+Então a ideia é: um site/aplicativo de front, com os resumos, as mini matérias e vídeos e um site por trás, com o banco de dados geral, com as avalições, matérias e todo o conteúdo bruto escrito e enviado pelas pessoas;
