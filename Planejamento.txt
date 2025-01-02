@@ -1,13 +1,17 @@
-O objetivo principal do tabloide é agregar conteúdos mais diretos ao ponto sobre veículos (carros, em específico).
+O objetivo principal do tabloide é agregar conteúdos mais diretos ao ponto sobre veículos (carros, em específico);
 
-Um dos principais destaques serão as qualidades abordadas nas postagens, os textos “direto ao ponto” e a ajuda com termos técnicos quando citados.
+Um dos principais destaques serão as qualidades abordadas nas postagens, os textos “direto ao ponto” e a ajuda com termos técnicos quando citados;
 
-Fora este pedaço de conhecimento que pode ser lido em 10 minutos diários (ou ouvidos através do leitor de página que será instalado), haverão comparações de modelos nacionais e/ou importados a fim de auxiliar na escolha e na compra de um veículo. (McDonalds)
+Fora este pedaço de conhecimento que pode ser lido em 10 minutos diários (ou ouvidos através do leitor de página que será instalado), haverão comparações de modelos nacionais e/ou importados a fim de auxiliar na escolha e na compra de um veículo. (McDonalds);
 
-O objetivo então passará a ser uma fonte de pesquisa para pessoas que estão interessadas em carros → que querem comprar um carro ou querem conhecer mais sobre → que encontram um lugar onde podem ler notícias rápidas sobre. (McDonalds)
+O objetivo então passará a ser uma fonte de pesquisa para pessoas que estão interessadas em carros → que querem comprar um carro ou querem conhecer mais sobre → que encontram um lugar onde podem ler notícias rápidas sobre. (McDonalds);
 
-No futuro, planejamos estruturar suficiente o tabloide para que as notícias sejam exportadas nas redes sociais, a fim de criar um mini centro jornalístico automatizado.
+No futuro, planejamos estruturar suficiente o tabloide para que as notícias sejam exportadas nas redes sociais, a fim de criar um mini centro jornalístico automatizado.;
 
-Usuários podem enviar avaliações dos carros, classificando por marca, modelo e ano, para agregar ao conteúdo e ter mais de um ponto de vista por publicação do veículo
+Usuários podem enviar avaliações dos carros, classificando por marca, modelo e ano, para agregar ao conteúdo e ter mais de um ponto de vista por publicação do veículo;
 
-O usuário leitor pode receber um "thumbs-up" se alguém gostou do conteúdo, comentários e etc, assim, a página do veículo em específico ficará com diversos mini guias ou mini avaliações referentes àquele carro, para facilitar o usuário a encontrar estas.
+O usuário leitor pode receber um "thumbs-up" se alguém gostou do conteúdo, comentários e etc, assim, a página do veículo em específico ficará com diversos mini guias ou mini avaliações referentes àquele carro, para facilitar o usuário a encontrar estas.;
+
+Trilhas: Um caminho por onde o usuário encontre a melhor decisão de acordo com algumas tags que ele seleciona, como preço, conforto, desempenho, pista, aparencia e etc. e encontre um carro ou análises sobre estas tags em específico;
+
+O cadastro dos usuários você pode selecionar um modelo que possui, um que quer possuir, modelo dos sonhos e melhor carro na sua opinião;

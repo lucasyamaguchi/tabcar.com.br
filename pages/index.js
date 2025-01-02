@@ -1,7 +1,11 @@
 function Home() {
   return (
     <>
-      <h1>Essa mensagem vai ter surpreender, ou não!!!</h1>
+      <h1>
+        Estamos em construção no momento, pegando a melhor rota para chegar ao
+        destino
+      </h1>
+      <h2>Sem atalhos desta vez!</h2>
     </>
   );
 }
