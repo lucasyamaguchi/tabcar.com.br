@@ -7,3 +7,7 @@ Fora este pedaço de conhecimento que pode ser lido em 10 minutos diários (ou o
 O objetivo então passará a ser uma fonte de pesquisa para pessoas que estão interessadas em carros → que querem comprar um carro ou querem conhecer mais sobre → que encontram um lugar onde podem ler notícias rápidas sobre. (McDonalds)
 
 No futuro, planejamos estruturar suficiente o tabloide para que as notícias sejam exportadas nas redes sociais, a fim de criar um mini centro jornalístico automatizado.
+
+Usuários podem enviar avaliações dos carros, classificando por marca, modelo e ano, para agregar ao conteúdo e ter mais de um ponto de vista por publicação do veículo
+
+O usuário leitor pode receber um "thumbs-up" se alguém gostou do conteúdo, comentários e etc, assim, a página do veículo em específico ficará com diversos mini guias ou mini avaliações referentes àquele carro, para facilitar o usuário a encontrar estas.
